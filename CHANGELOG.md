@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.2.2] - 2020-07-13
+- Update alpine base image
+- Update phpcs (bugfix release 3.5.5)
+
 ## [1.2.1] - 2020-06-03
 - Update alpine base image
 - Use new docker repo
@@ -25,7 +29,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.2.1...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.2.2...HEAD
+[1.2.2]: https://github.com/gmitirol/alpine310-php73/compare/1.2.1...1.2.2
 [1.2.1]: https://github.com/gmitirol/alpine310-php73/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/gmitirol/alpine310-php73/compare/1.1.1...1.2.0
 [1.1.1]: https://github.com/gmitirol/alpine310-php73/compare/1.1.0...1.1.1
