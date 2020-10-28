@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.2] - 2020-10-28
+- Update alpine base image
+- Rebuild image for latest package updates
+
 ## [1.3.1] - 2020-10-14
 - Update alpine base image
 
@@ -39,7 +43,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.3.1...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.3.2...HEAD
+[1.3.2]: https://github.com/gmitirol/alpine310-php73/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/gmitirol/alpine310-php73/compare/1.3.0...1.3.1
 [1.3.0]: https://github.com/gmitirol/alpine310-php73/compare/1.2.3...1.3.0
 [1.2.3]: https://github.com/gmitirol/alpine310-php73/compare/1.2.2...1.2.3
