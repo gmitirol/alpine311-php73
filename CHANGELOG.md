@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.4] - 2020-12-03
+- Fix superglobal access in tests
+
 ## [1.3.3] - 2020-11-30
 - Update alpine base image
 
@@ -46,7 +49,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.3.3...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine311-php73/compare/1.3.4...HEAD
+[1.3.4]: https://github.com/gmitirol/alpine310-php73/compare/1.3.3...1.3.4
 [1.3.3]: https://github.com/gmitirol/alpine310-php73/compare/1.3.2...1.3.3
 [1.3.2]: https://github.com/gmitirol/alpine310-php73/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/gmitirol/alpine310-php73/compare/1.3.0...1.3.1
